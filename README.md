@@ -1,4 +1,5 @@
 # Pertemuan 1 Dasar Dart
+```dart
 void main() {
   String namaPelanggan = 'Azkia Alfin Zulfikar';
   int jumlahPesan = 31;
