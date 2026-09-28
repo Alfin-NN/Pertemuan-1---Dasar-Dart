@@ -1,9 +1,4 @@
 # Pertemuan 1 Dasar Dart
-
-Nama  : Azkia Alfin Zulfikar
-Nim   : 1124160251
-Kelas : TI SE 24 Malam
-
 ```dart
 void main() {
   String namaPelanggan = 'Azkia Alfin Zulfikar';
